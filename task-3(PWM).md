@@ -6,4 +6,9 @@ This project is to just read the PWD using Oscilloscope.Pulse width modulation(P
 2. Oscilloscope
 3. LED
 ## Working
-To make a PWM signalthe output is given using a for loop in which a variable runs from 0 to 255 and back to 0. The output pin in Arduino should be PWM supporting to check if the port support just check if th port number has a '~' before the number.Now just connect an oscillscope to the arduino output pin
+To make a PWM signalthe output is given using a for loop in which a variable runs from 0 to 255 and back to 0. The output pin in Arduino should be PWM supporting to check if the port support just check if th port number has a '~' before the number.Now just connect an oscillscope to the arduino output pin.
+## Circuit
+![alt text](./task3/1.png)
+
+
+Link tinkercad is [here](https://www.tinkercad.com/things/20TEoDCqiO9-task-31/editel?sharecode=Sf0qzseVuHf0Oe3tLvUaJjz6cNC_zYoMGFroTN3-yD4)
